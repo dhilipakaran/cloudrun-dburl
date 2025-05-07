@@ -1,0 +1,5 @@
+project_id            = "galvanic-portal-456405-a2"
+region                = "us-central1"
+service_name          = "secure-cloud-run"
+image                 = "docker.io/dhilipakaran/testing:v2"
+service_account_email = "1076859015448-compute@developer.gserviceaccount.com"
