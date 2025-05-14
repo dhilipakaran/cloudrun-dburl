@@ -11,7 +11,7 @@ variable "service_name" {
 }
 
 variable "image" {
-  default = "docker.io/dhilipakaran/testing:v2"
+  default = "docker.io/dhilipakaran/starter:v30"
 }
 
 variable "service_account_email" {
